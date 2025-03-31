@@ -4,11 +4,13 @@ title: Yun's Blog
 permalink: /
 ---
 
-### 📜 My Github Blog
+### 📜 My Github & Blog
 
-## [Yun's Blog: yunyoseob.github.io](https://yunyoseob.github.io/)
+- [Yun's Github](https://github.com/yunyoseob)
 
-- [Theme 참고](https://github.com/sighingnow/jekyll-gitbook/tree/master)
+- [Yun's Blog: yunyoseob.github.io](https://yunyoseob.github.io/)
+
+- [Github Blog Theme Reference](https://github.com/sighingnow/jekyll-gitbook/tree/master)
 
 
 ## Blog Setting Guide
@@ -34,5 +36,5 @@ bundle update
 ### 4. 로컬 서버 실행
 
 ```
-bundle exec jekyll serve
+jekyll serve --baseurl ""
 ```
