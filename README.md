@@ -4,10 +4,14 @@ title: Yun's Blog
 permalink: /
 ---
 
-## Template Link
+### 📜 My Github Blog
 
-https://github.com/sighingnow/jekyll-gitbook/tree/master
+## [Yun's Blog: yunyoseob.github.io](https://yunyoseob.github.io/)
 
+- [Theme 참고](https://github.com/sighingnow/jekyll-gitbook/tree/master)
+
+
+## Blog Setting Guide
 
 ## 1. Jekyll  설치 확인
 
